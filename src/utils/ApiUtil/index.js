@@ -1,3 +1,3 @@
-import axiosClient from './axios-client';
+import apiClient from './axios-client';
 
-export default axiosClient;
+export default apiClient; // apiClient[fetch, axios ...]
